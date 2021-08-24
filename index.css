@@ -271,7 +271,8 @@ footer{
         font-size: 14px;
     }
     header{
-        background-size: cover;
+        background-size: none;
+        background: lavender;
     }
 
     .pres {
